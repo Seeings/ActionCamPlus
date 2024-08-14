@@ -1,5 +1,5 @@
 local addonName, ACP = ...;
-ACP.version = 0.21
+ACP.version = 0.21.5b
 
 local castingMount = false
 local activeMountID = 0
