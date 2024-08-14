@@ -1,9 +1,9 @@
-## Interface: 100105
+## Interface: 100105, 100207, 110000, 110002
 ## Title: ActionCamPlus
 ## Notes: Makes Blizzard's experimental Action Camera more usable.
-## Author: Anorian
+## Author: Anorian - fork by Seeings
 ## SavedVariables: ActionCamPlusDB
-## Version: 0.21
+## Version: 0.21.5b
 ## OptionalDeps: ACP
 
 ActionCamPlus.lua
